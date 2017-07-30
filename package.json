@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-dd-aes",
+  "version": "0.0.3",
+  "description": "钉钉消息通信时的aes加解密算法",
+  "dependencies": {
+    "aes-js": "3.1.0",
+    "bufferpack": "0.0.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cathayjs/nodejs-dd-aes.git"
+  },
+  "license": "MIT",
+  "author": "johnnychq <johnnychq@gmail.com>"
+}
